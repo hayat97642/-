@@ -8,7 +8,7 @@
 
     const prod = false;
     
-    const PROXIES = ["http://IPv4D_ZSM7Iqg2Y0-ttl-0:CaXclKLgv4aUhfH@datacenter-ww.lightningproxies.net:1338"];
+    const PROXIES = ["http://rotating:IceArvCWRyjtpWwd@proxy.idcraw.lol:3128"]; 
     const MAX_BOTS = 256;
     const SHARED_STATE_SIZE = 16 + MAX_BOTS * 2;
 
