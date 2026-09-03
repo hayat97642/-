@@ -8,7 +8,7 @@
 
     const prod = false;
     
-    const PROXIES = ["http://rotating:IceArvCWRyjtpWwd@proxy.idcraw.lol:3128"]; 
+    const PROXIES = ["http://DC_1ZToqldL1M-ttl-0:QAhyo0eX1E0Gjw1@dc.us-pr.plainproxies.com:1338"];
     const MAX_BOTS = 256;
     const SHARED_STATE_SIZE = 16 + MAX_BOTS * 2;
 
